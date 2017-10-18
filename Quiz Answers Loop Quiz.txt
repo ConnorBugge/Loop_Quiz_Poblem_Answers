@@ -1,0 +1,38 @@
+
+
+
+Hello Class Loop:
+public class HelloClasswWhileLoop {
+
+	public static void main(String[] args) {
+		
+		int count = 0; 
+				while (count <= 10)	{
+					System.out.println("Hello Class!");
+					count++;
+				}
+
+	}
+
+}
+
+
+
+Count to 10 loop:
+public class Quizproblem1 {
+
+	public static void main(String[] args) {
+	int count =1;
+	while (count <= 10)	{
+		System.out.println(count);
+		count = count + 1;
+	}
+	}
+		
+		
+		
+}
+
+
+
+
